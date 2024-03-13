@@ -5,6 +5,7 @@ const Forgotpassword = () => {
   return (
     <View>
       <Text>Forgotpassword</Text>
+      <Text>Forgotpassword</Text>
     </View>
   )
 }
