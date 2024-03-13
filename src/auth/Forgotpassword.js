@@ -6,6 +6,8 @@ const Forgotpassword = () => {
     <View>
       <Text>Forgotpassword</Text>
       <Text>Forgotpassword</Text>
+      <Text>Forgotpassword</Text>
+      <Text>Forgotpassword</Text>
      
     </View>
   )
